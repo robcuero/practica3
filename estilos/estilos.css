@@ -9,6 +9,7 @@ h2 {
   font: bold 14px verdana, sans-serif;
 }
 
+
 #agrupar{
    height: 240px;
    width: 1300px;
@@ -16,4 +17,13 @@ h2 {
    margin:3px;
    padding: 10px;
    margin:auto;
+}
+#cabecera{
+  height: 60px;
+  border:1px solid #ABA5A5;
+  background-color: #EEFF90;
+  display: flex;
+  align-items: center;
+  padding-left:20px;
+
 }
