@@ -50,3 +50,13 @@ h2 {
    background-color: #B3A9A9;
 
 }
+#columna{
+   float:right;
+   height: 40px;
+   width: 300px;
+   margin-top:20px;
+   margin-bottom: 20px;
+   margin-right: 20px;
+   margin-left: 20px;
+   background-color: #E6E4E4;
+}
