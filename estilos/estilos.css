@@ -60,3 +60,12 @@ h2 {
    margin-left: 20px;
    background-color: #E6E4E4;
 }
+#pie{
+ 
+   height: 65px;
+   width: 1300px;
+   background-color: #A19C9C;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+}
