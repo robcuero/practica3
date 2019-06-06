@@ -38,3 +38,15 @@ h2 {
   padding: 5px;
   font: bold 14px verdana, sans-serif;
 }
+
+#seccion{
+   float:left;
+   height:20px;
+   width: 920px;
+   margin-top:20px;
+   margin-bottom: 40px;
+   margin-right: 20px;
+   margin-left: 20px;
+   background-color: #B3A9A9;
+
+}
